@@ -6,6 +6,8 @@ Analisar o mercado de hospedagens em um raio de 3 km da Fatec Sebrae, identifica
 ## Ferramentas Utilizadas
 - Excel
 - Power BI
+- Google Maps (para coleta de dados)
+- Booking.com (também para coleta de dados)
 
 ## Principais Atividades
 - Coleta e organização dos dados
