@@ -16,7 +16,7 @@ Analisar o mercado de hospedagens em um raio de 3 km da Fatec Sebrae, identifica
 ## 📊 Dashboard de Hotéis
 
 ### 🏨 Visão Geral
-![Visão geral](imagens/tela_visão_geral.png)
+![Visão geral](imagens/tela_visao_geral.png)
 
 ### 🏙️ Tela por Bairro
 ![Tela bairro](imagens/tela_bairro.png)
